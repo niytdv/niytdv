@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niytdv&label=Profile%20views&color=0e75b6&style=flat" alt="niytdv" /> </p>
 
-- 🌱 I’m currently learning **Javasrcipt, python, C and web development**
+- 🌱 I’m currently learning **Javasrcipt, python, C , C++, Java and web development**
 
 - 📫 How to reach me **niyatidave2112@gmail.com**
 
