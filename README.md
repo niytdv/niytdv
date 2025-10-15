@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niyati Dave</h1>
 <h3 align="center">A passionate full sack developer from India</h3>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niytdv&label=Profile%20views&color=0e75b6&style=flat" alt="niytdv" /> </p> -->
 
 - 🌱 I’m currently learning **Javasrcipt, python, C , C++, Java and web development**
 
