@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niytdv&show_icons=true&locale=en" alt="niytdv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niytdv&" alt="niytdv" /></p>
-## 🪶 My Holopin Badges
+My Holopin Badges
 
 <p align="center">
   <a href="https://holopin.io/@niytdv">
