@@ -18,4 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niytdv&show_icons=true&locale=en" alt="niytdv" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niytdv&" alt="niytdv" /></p>
-[![An image of @niytdv's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niytdv)](https://holopin.io/@niytdv)
+## 🪶 My Holopin Badges
+
+<p align="center">
+  <a href="https://holopin.io/@niytdv">
+    <img src="https://holopin.me/niytdv" alt="@niytdv's Holopin board" />
+  </a>
+</p>
+
